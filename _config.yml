@@ -83,10 +83,19 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: EasyParcel
+        sub_title: Web Developer Trainee
+        caption: September 2018 - December 2018 
+        link: www.easyparcel.my
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: NSW Automation Sdn Bhd
+        sub_title: Software Engineer
+        caption: February 2020 - January 2022 
+        link: www.nswautomation.com
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -95,9 +104,17 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: TARUC Penang
+        sub_title: Diploma in Science(Internet Technology)
+        caption: 2014 - 2016
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: UTAR Kampar
+        sub_title: Bachelor in Information Technology (Communications and Networking)
+        caption: 2017 - 2020
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
