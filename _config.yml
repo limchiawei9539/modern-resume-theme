@@ -46,7 +46,7 @@ linkedin_username: lim-chia-wei-b6849b169
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-9CLC80DJX7"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
