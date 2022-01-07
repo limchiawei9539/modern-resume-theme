@@ -79,8 +79,8 @@ content:
         sub_title: Software Engineer
         caption: January 2022 - Present
         link: www.thundersoft.com
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of role
   - title: Education
     layout: list
     content:
