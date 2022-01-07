@@ -52,33 +52,11 @@ linkedin_username: lim-chia-wei-b6849b169
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/mike.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Experienced Software Engineer with a demonstrated history of working in the machinery industry. 
+  Skilled in SECS/GEM, English, JavaScript, C#, and Server Administration. Strong engineering professional 
+  with a Bachelor's degree focused in Communication and Networking from Universiti Tunku Abdul Rahman (UTAR). 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -87,17 +65,20 @@ content:
         sub_title: Web Developer Trainee
         caption: September 2018 - December 2018 
         link: www.easyparcel.my
-        quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: right
-        title: NSW Automation Sdn Bhd
+        title: NSW Automation
         sub_title: Software Engineer
         caption: February 2020 - January 2022 
         link: www.nswautomation.com
-        quote: >
-          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: Thunder Software Technology Malaysia
+        sub_title: Software Engineer
+        caption: January 2022 - Present
+        link: www.thundersoft.com
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
@@ -119,12 +100,6 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
