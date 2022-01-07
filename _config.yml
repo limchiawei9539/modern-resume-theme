@@ -65,15 +65,15 @@ content:
         sub_title: Web Developer Trainee
         caption: September 2018 - December 2018 
         link: www.easyparcel.my
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of role
       - layout: right
         title: NSW Automation
         sub_title: Software Engineer
         caption: February 2020 - January 2022 
         link: www.nswautomation.com
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of role
       - layout: right
         title: Thunder Software Technology Malaysia
         sub_title: Software Engineer
@@ -88,18 +88,10 @@ content:
         title: TARUC Penang
         sub_title: Diploma in Science(Internet Technology)
         caption: 2014 - 2016
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
       - layout: top-right
         title: UTAR Kampar
         sub_title: Bachelor in Information Technology (Communications and Networking)
         caption: 2017 - 2020
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
 
 # Footer
 footer_show_references: true
