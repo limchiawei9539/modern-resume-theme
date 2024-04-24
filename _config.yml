@@ -52,10 +52,9 @@ google_analytics: "G-9CLC80DJX7"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/mike.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Experienced Software Engineer with a demonstrated history of working in the machinery industry. 
-  Skilled in SECS/GEM, English, JavaScript, C#, and Server Administration. Strong engineering professional 
-  with a Bachelor's degree focused in Communication and Networking from Universiti Tunku Abdul Rahman (UTAR). 
-
+  Experienced Software Engineer with a demonstrated history of working in the automation and manufacturing industry. 
+  Skilled in MS .Net Core Full Stack, JavaScript, MySQL, MSSQL, DevOps, Machine Learning, Jira and Server Administration. 
+  Strong engineering professional with a Bachelor's degree focused in Communications and Networking from Universiti Tunku Abdul Rahman (UTAR).
 content:
   - title: Experience
     layout: list
