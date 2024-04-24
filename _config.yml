@@ -77,10 +77,15 @@ content:
       - layout: right
         title: Thunder Software Technology Malaysia
         sub_title: Software Engineer
-        caption: January 2022 - Present
+        caption: January 2022 - August 2022
         link: www.thundersoft.com
         #description: | # this will include new lines to allow paragraphs
         #  Description of role
+      - layout: right
+        title: Intel Corporation
+        sub_title: FPGA Development Tool Engineer
+        caption: August 2022 - Present
+        link: www.intel.com
   - title: Education
     layout: list
     content:
